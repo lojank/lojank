@@ -26,7 +26,7 @@
 
 ## GitHub Summary 📈  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lojank&layout=compact" width=47% align=left height="200px" >
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lojank&show_icons=true&locale=en" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=lojank&show_icons=true&locale=en" width=47% align=right height="200px"/>
 
 
 <!--
