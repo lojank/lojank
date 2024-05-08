@@ -1,4 +1,4 @@
-### Hi 👋, I'm Lojan
+### Hi 👋, I am Lojan Karunakaran
 
 - 🌱 I’m currently learning **AWS, Angular, and C#.**
 
