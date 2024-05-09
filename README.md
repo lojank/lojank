@@ -1,10 +1,13 @@
-### Hi 👋, I am Lojan Karunakaran
+<h1 align="center">Hi 👋, I'm Lojan Karunakaran</h1>
+<p align="center">Welcome to my profile! I'm a CS student who likes building full-stack applications.</p>
 
-- 🌱 I’m currently learning **AWS, Angular, and C#.**
-
-- 💬 Ask me about **Anything Full-Stack Development**
-
-- 📫 How to reach me **lojankarunakaran@gmail.com**
+## Feel free to reach out 📫  
+<a href="mailto:lojankarunakaran@gmail.com" target="_blank"> 
+  <img src="https://img.shields.io/badge/Gmail%20-%2312100E.svg?&style=for-the-badge&logo=gmail">
+</a> 
+<a href="https://www.linkedin.com/in/lojan-karunakaran/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn%20-%2312100E.svg?&style=for-the-badge&logo=linkedin">
+</a>   
 
 ## Tools in my pocket🛠
 <p float="left">
@@ -22,6 +25,12 @@
   <img src="https://img.shields.io/badge/-JSON%20-%2312100E.svg?style=for-the-badge&logo=json&logoColor=02569B">
   <img src="https://img.shields.io/badge/-SQL%20-%2312100E.svg?style=for-the-badge&logo=SQL&logoColor=003B57">
   <img src="https://img.shields.io/badge/-PostMan%20-%2312100E.svg?style=for-the-badge&logo=postman">
+</p>
+
+## In progress 📚
+<p>
+<img alt="Static Badge" src="https://img.shields.io/badge/Amazon%20Web%20Services-black?style=for-the-badge&logo=Amazon%20AWS">
+<img src="https://img.shields.io/badge/-Vue%20-%2312100E.svg?style=for-the-badge&logo=vue.js">
 </p>
 
 ## GitHub Summary 📈  
