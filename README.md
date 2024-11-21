@@ -1,10 +1,6 @@
 <h1>Hi 👋, I'm Lojan Karunakaran</h1>
 <p>Welcome to my profile! I'm a Computer Science student who enjoys building projects in my free time.</p>
 
-## Feel free to reach out 📫  
-- **Email:** lojankarunakaran@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/lojan-karunakaran/ 
-
 ## Technologies Used 🛠
 - **Programming Languages:** JavaScript, Python, Java
 - **Web Development:** React.js, HTML, CSS, Tailwind
@@ -15,6 +11,10 @@
 ## In progress 📚
 - **AWS (Amazon Web Services)**
 - **Next.js**
+
+## Feel free to reach out 📫  
+- **Email:** lojankarunakaran@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/lojan-karunakaran/ 
 
 ## GitHub Summary 📈  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lojank&layout=compact" width=47% align=left height="200px" >
