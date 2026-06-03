@@ -2,15 +2,15 @@
 <p>Welcome to my profile! I'm a Computer Science student who enjoys building projects in my free time.</p>
 
 ## Technologies Used 🛠
-- **Programming Languages:** JavaScript, Python, Java
-- **Web Development:** React.js, HTML, CSS, Tailwind
-- **Backend:** Node.js, Express.js, Flask
-- **Database Management:** PostgreSQL, MySQL, MongoDB
-- **Other Tools:** Git, VSCode, Postman
+- **Programming Languages:** TypeScript, JavaScript, Python, Java
+- **Web Development:** Next.js, React.js, HTML, CSS, Tailwind
+- **Backend:** FastAPI, Flask, Node.js, Express.js
+- **Database Management:** Oracle, MySQL, Supabase, MongoDB
+- **Other Tools:** VSCode, Git, Google Cloud Platform, Postman
 
 ## In progress 📚
 - **AWS (Amazon Web Services)**
-- **Next.js**
+- **Spring Boot**
 
 ## Feel free to reach out 📫  
 - **Email:** lojankarunakaran@gmail.com
