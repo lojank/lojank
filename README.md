@@ -14,8 +14,4 @@
 
 ## Feel free to reach out 📫  
 - **Email:** lojankarunakaran@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/lojan-karunakaran/ 
-
-## GitHub Summary 📈  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lojank&layout=compact" width=47% align=left height="200px" >
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=lojank&show_icons=true&locale=en" width=47% align=right height="200px"/>
+- **LinkedIn:** https://www.linkedin.com/in/lojan-karunakaran/
